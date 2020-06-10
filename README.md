@@ -6,7 +6,7 @@ From time to time, the Blockchain Commons is called upon to testify about blockc
 
 | Number                    | Title         | Version | Owner                                                  | 
 |---------------------------|---------------|---------|----------------------------------------------|
-| [BCT-2018-001](Testimony/bct-2018-001.md) | Engaging on Fund Innovation and Cryptocurrency-related Holdings | 1.0.0 | Christopher Allen |
+| [BCT-2018-001](testimonies/bct-2018-001.md) | Engaging on Fund Innovation and Cryptocurrency-related Holdings | 1.0.0 | Christopher Allen |
 
 ### BCT Number
 
