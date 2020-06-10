@@ -4,9 +4,9 @@ From time to time, the Blockchain Commons is called upon to testify about blockc
 
 ## Additional Information
 
-| Number                    | Title         | Version | Owner                                                  | 
+| Number                    | Title         | Agency | Version | Owner                                                  | 
 |---------------------------|---------------|---------|----------------------------------------------|
-| [BCT-2018-001](testimonies/bct-2018-001.md) | Engaging on Fund Innovation and Cryptocurrency-related Holdings | 1.0.0 | Christopher Allen |
+| [BCT-2018-001](testimonies/bct-2018-001.md) | Engaging on Fund Innovation and Cryptocurrency-related Holdings | USA SEC | 1.0.0 | Christopher Allen |
 
 ### BCT Number
 
@@ -17,6 +17,10 @@ _Note that the sequence number reverts to 001 at the start of each year._
 ### BCT Title
 
 Please be sure that your title is concise, yet informative. 
+
+### BCT Agency
+
+This is the local, state, or federal agency that the testimony was directed at.
 
 ### BCT Version
 
