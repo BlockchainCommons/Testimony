@@ -8,6 +8,8 @@ From time to time, the Blockchain Commons is called upon to testify about blockc
 |---------------------------|---------------|--------|-----|----------------------------------------------|
 | [BCT-2018-001](testimonies/bct-2018-001.md) | Engaging on Fund Innovation and Cryptocurrency-related Holdings | USA SEC | 1.0.0 | Christopher Allen |
 
+Also see our [Research](https://github.com/BlockchainCommons/Research/README.md) and our [Wallet Improvement Proposals](https://github.com/BlockchainCommons/wips/README.md).
+
 ### BCT Number
 
 Please number all Bitcoin Testimony BCTs with a four-digit number representing the current year (`YYYY`) followed by a three-digit sequence number for that year (`SSS`). For example: `bct-2020-001` is the first BCT for 2020, `bct-2020-017` is the 17th, and `bct-2021-001` is the first BCT for 2021.
