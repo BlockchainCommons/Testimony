@@ -22,7 +22,7 @@ Please be sure that your title is concise, yet informative.
 
 When updating BCTs, please use [semantic versioning](https://semver.org/) for your version number.
 
-Most briefly: your version number should be of the form X.Y.Z, where `X` is the major number ("0" for a BCR in progress; "1" for a fully drafted BCR; and "2" or higher for a new version that has introduced a backward-incompatible change), `Y` is the minor number (for a backward-compatible new feature), and `Z` is the patch number (for fixing typos and making other clarifications that don't fundamentally change what the BCT means).
+Most briefly: your version number should be of the form X.Y.Z, where `X` is the major number ("0" for a BCT in progress; "1" for a fully drafted BCT; and "2" or higher for a new version that has introduced a backward-incompatible change), `Y` is the minor number (for a backward-compatible new feature), and `Z` is the patch number (for fixing typos and making other clarifications that don't fundamentally change what the BCT means).
 
 But please consult the semantic versioning document for more information and adjust appropriately for the fact that these are textual BCTs, not software.
 
@@ -30,7 +30,7 @@ For Testimony, most versions will likely settle at 1.0.0, but versioning might b
 
 ### BCT Owner
 
-Please list the person primarily responsible for the BCR, and moving it forward, as the owner. If there are multiple authors, they should be listed on the BCT itself, not on this overview.
+Please list the person primarily responsible for the BCT, and moving it forward, as the owner. If there are multiple authors, they should be listed on the BCT itself, not on this overview.
 
 ## Status - Ongoing
 
