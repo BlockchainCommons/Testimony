@@ -1,16 +1,40 @@
-# Blockchain Commons `$projectname`
+# Blockchain Commons Testimony
 
-**`$ProjectDescription`** is …
+From time to time, the Blockchain Commons is called upon to testify about blockchain technology before local, state, and federal agencies who are making decisions and laws regarding the future of these technologies. This repo contains any such testimony that is public.
 
 ## Additional Information
 
-The following files contain…
+| Number                    | Title         | Version | Owner                                                  | 
+|---------------------------|---------------|---------|----------------------------------------------|
+| [BCT-2018-001](Testimony/bct-2018-001.md) | Engaging on Fund Innovation and Cryptocurrency-related Holdings | 1.0.0 | Christopher Allen |
 
-* `$ListOfEssentialDocs`
+### BCT Number
 
-## Status - Late Alpha
+Please number all Bitcoin Testimony BCTs with a four-digit number representing the current year (`YYYY`) followed by a three-digit sequence number for that year (`SSS`). For example: `bct-2020-001` is the first BCT for 2020, `bct-2020-017` is the 17th, and `bct-2021-001` is the first BCT for 2021.
 
-` $projectname`  is currently under active development and in the late alpha testing phase. It should not be used for production tasks until it has had further testing and auditing.
+_Note that the sequence number reverts to 001 at the start of each year._
+
+### BCT Title
+
+Please be sure that your title is concise, yet informative. 
+
+### BCT Version
+
+When updating BCTs, please use [semantic versioning](https://semver.org/) for your version number.
+
+Most briefly: your version number should be of the form X.Y.Z, where `X` is the major number ("0" for a BCR in progress; "1" for a fully drafted BCR; and "2" or higher for a new version that has introduced a backward-incompatible change), `Y` is the minor number (for a backward-compatible new feature), and `Z` is the patch number (for fixing typos and making other clarifications that don't fundamentally change what the BCT means).
+
+But please consult the semantic versioning document for more information and adjust appropriately for the fact that these are textual BCTs, not software.
+
+For Testimony, most versions will likely settle at 1.0.0, but versioning might be used if revisions are sent or if similar Testimony is sent to multiple agencies.
+
+### BCT Owner
+
+Please list the person primarily responsible for the BCR, and moving it forward, as the owner. If there are multiple authors, they should be listed on the BCT itself, not on this overview.
+
+## Status - Ongoing
+
+Blockchain Testimony is ongoing. 
 
 ## Origin, Authors, Copyright & Licenses
 
@@ -24,27 +48,9 @@ This table below also establishes provenance (repository of origin, permalink, a
 | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------ | ----------------------------------------------------------- |
 | exception-to-the-rule.c or exception-folder | [https://github.com/community/repo-name/PERMALINK](https://github.com/community/repo-name/PERMALINK) | [https://github.com/community/repo-name/commit/COMMITHASH]() | 2020 Exception Author  | [MIT](https://spdx.org/licenses/MIT)                        |
 
-### Dependencies
-
-To build  `$projectname` you'll need to use the following tools:
-
-- autotools - Gnu Build System from Free Software Foundation ([intro](https://www.gnu.org/software/automake/manual/html_node/Autotools-Introduction.html)).
-
-### Derived from…
-
-This  `$projectname` project is either derived from or was inspired by:
-
-- [community/repo-name/](https://github.com/community/repo-name) — Repo that does what, by [developer](https://github.com/developer)  or from  [community](https://community.com).
-
-### Used with…
-
-These are other projects that work with or leverage `$projectname`:
-
-- [community/repo-name/](https://github.com/community/repo-name) — Repo that does what, by [developer](https://github.com/developer)  or from  [community](https://community.com).
-
 ## Financial Support
 
-`$projectname` is a project of [Blockchain Commons](https://www.blockchaincommons.com/). We are proudly a "not-for-profit" social benefit corporation committed to open source & open development. Our work is funded entirely by donations and collaborative partnerships with people like you. Every contribution will be spent on building open tools, technologies, and techniques that sustain and advance blockchain and internet security infrastructure and promote an open web.
+Testimony is a project of [Blockchain Commons](https://www.blockchaincommons.com/). We are proudly a "not-for-profit" social benefit corporation committed to open source & open development. Our work is funded entirely by donations and collaborative partnerships with people like you. Every contribution will be spent on building open tools, technologies, and techniques that sustain and advance blockchain and internet security infrastructure and promote an open web.
 
 To financially support further development of `$projectname` and other projects, please consider becoming a Patron of Blockchain Commons through ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also support Blockchain Commons with bitcoins at our [BTCPay Server](https://btcpay.blockchaincommons.com/).
 
