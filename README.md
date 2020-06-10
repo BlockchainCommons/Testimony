@@ -8,7 +8,7 @@ From time to time, the Blockchain Commons is called upon to testify about blockc
 |---------------------------|---------------|--------|-----|----------------------------------------------|
 | [BCT-2018-001](testimonies/bct-2018-001.md) | Engaging on Fund Innovation and Cryptocurrency-related Holdings | USA SEC | 1.0.0 | Christopher Allen |
 
-Also see our [Research](https://github.com/BlockchainCommons/Research/README.md) and our [Wallet Improvement Proposals](https://github.com/BlockchainCommons/wips/README.md).
+_Also see our [Research](https://github.com/BlockchainCommons/Research/blob/master/README.md) and our [Wallet Improvement Proposals](https://github.com/BlockchainCommons/wips/blob/master/README.md)._
 
 ### BCT Number
 
